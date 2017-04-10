@@ -1,5 +1,5 @@
 /**
-http://br.spoj.com/submit/COCIRC10
+http://br.spoj.com/submit/CARDAPIO
 */
 
 #include <cstdio>
